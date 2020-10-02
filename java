@@ -11,7 +11,6 @@ public class AddTwoNumbers2 {
         System.out.println("Enter Second Number: ");
         num2 = sc.nextInt();
         
-        sc.close();
         sum = num1 + num2;
         System.out.println("Sum of these numbers: "+sum);
     }
